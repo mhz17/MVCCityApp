@@ -1,0 +1,9 @@
+﻿
+*proj.user
+.bower_components/
+CityAPI/bin
+CityAPI/obj
+CityAPI/node_modules
+.vs/
+
+
