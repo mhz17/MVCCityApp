@@ -1,0 +1,17 @@
+* admin rights on machine
+* command prompt enabled
+* Tfs access
+* Dev account 
+* FileMover access
+* Setup proxy on dev machine
+* Setup proxy on npm config (npm config list npm config set proxy ="http://10.1.151.102:8080" npm config set strict-ssl true
+* Antivirus prevents VS from running
+
+* Check connection to VPN from home
+* Slack
+* Pluralsight
+
+
+Missing:
+
+Introduction to projects (software demo)
